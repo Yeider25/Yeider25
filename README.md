@@ -1,6 +1,10 @@
-## Hi there 👋
+## Yeider Vera
+## Soy Tecnólogo en Análisis y Desarrollo de Software con un enfoque práctico, creativo y proactivo. Tengo experiencia en el desarrollo de soluciones web, inteligencia artificial y chatbots. Estoy comprometido con la mejora continua y valoro el trabajo en equipo como una herramienta fundamental para lograr resultados efectivos.
 
 ![Fondo_L2](https://github.com/user-attachments/assets/8a0fd29d-714a-4b68-aa62-de90b518d314)
+
+Aqui algunas tecnologias que manejo: 
+
 
 
 
