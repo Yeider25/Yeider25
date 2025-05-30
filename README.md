@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Fondo_L](https://github.com/user-attachments/assets/41a63f42-aeab-42ee-a785-1a5c60941003)
+
 <!--
 **Yeider25/Yeider25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
